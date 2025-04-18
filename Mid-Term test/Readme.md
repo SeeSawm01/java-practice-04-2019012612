@@ -13,7 +13,7 @@
 
 
 개발방법
-[[메인페이지]]
+[[메인페이지]](https://github.com/SeeSawm01/java-practice-04-2019012612/blob/main/Mid-Term%20test/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md)
 
 
 근본주제: 청주대에 필요한 프로그램은 뭐가 있을까?
